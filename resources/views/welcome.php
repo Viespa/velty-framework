@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><h1>Welcome to Velty!</h1></body></html>
